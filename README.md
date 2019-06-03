@@ -1,2 +1,3 @@
-# graphql-server
-basic graphql server in node.js
+# GraphQL Server
+
+Basic GraphQL server with Node.js.
